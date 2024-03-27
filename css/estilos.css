@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:black;
+    margin: 10px;
+    padding: 10px;
+    font-size: Arial, Helvetica;
+    color: azure;
+}
+header{
+    background-color: aqua;
+    padding: 30px;
+    text-align: center;
+    color: #080808;
+}
+header img{
+    width: 100px;
+    height: 100px;
+    float: left;
+
+}
+nav{
+    background-color: rgb(0, 193, 252);
+    color: #080808;
+    text-align: center;
+    padding: 7px;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline;
+    margin-right: 24px;
+}
+nav a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}   
+.principal1{
+    width: 100%;
+    height: 400px;
+    background-color: #000000;
+}
+.imagempre{
+    float: left;;
+}
+.imagempre img{
+    float: left;
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+}
+.infoprinc{
+    float: right;
+   margin: 100px;
+   width: 600px;
+}
+button{
+    background-color: aqua;
+    height: 24px;
+    border-radius: 5px;
+
+}
+footer{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    color: #000000;
+}
+.platillo{
+    width: 100%;
+    height: 400px;
+}
+.imagen1{
+    float: left;
+}
+.imagen1 img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+.nube{
+    float: right;
+    margin: 100px;
+    width: 600px;
+}
+.imagen2{
+    float:right;
+}
+.imagen2 img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+.kaio{
+    float: right;
+    margin: 100px;
+    width: 600px;
+}
+.imagen3{
+    float:left;
+}
+.imagen3 img{
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin:50px; 
+}
+.genki{
+    float: right;
+    margin: 100px;
+    width: 600px;
+}
+.platillo2{
+    width: 100%;
+    height: 400px;
+}
+.imagen4{
+    float: right;
+}
+.imagen4 img{
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+.kame{
+    float: right;
+    margin: 100px;
+    width: 600px;
+}
+.imagen5{
+    float: left;
+}
+.imagen5 img{
+
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+.super{
+    float: left;
+    margin: 100px;
+    width: 600px;
+}
+.imagen6{
+    float: right;    
+}
+.imagen6 img{
+    float: right;
+    height: 300px;
+    width: 300px;
+    margin:50px;
+}
+.majin{
+    float: right;
+    margin: 100px;
+    width: 600px;
+}
+.redes {
+    float: right; 
+}
+.redes img{
+    width: 34px;
+    height: 34px;
+    margin: 7px;
+}
+.mtpagos{
+    float: right;   
+}
+.mtpagos img{
+    width: 64px;
+    height: 64px;
+    margin: 50px;
+}
+.datos-personales{
+    margin: 60px;
+    width: 200px;
+}
+#reservas {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+form {
+    display: grid;
+    grid-gap: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color:aqua;
+    color: rgb(0, 0, 0);
+    padding: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(0, 193, 252);
+}
+.logo{
+    float: left;
+}
+.logo img{
+    height: 131px;
+}
+.contacto{
+    margin: 39px;
+    width: 800px;
+    padding: 15px;
+}
